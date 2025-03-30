@@ -28,8 +28,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     font-size: 8vmin;
-    color:red;
-    background-color: #ffffc7;
+    color:rgb(0, 0, 0);
+    background-color: #cecece;
 }
 #reset{
     padding: 1rem;
@@ -49,4 +49,7 @@ body{
 }
 .hide{
     display: none;
+}
+.title{
+    color: white;
 }
