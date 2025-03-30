@@ -27,12 +27,26 @@ body{
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.1);
+    font-size: 8vmin;
     color:red;
+    background-color: #ffffc7;
 }
 #reset{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: rgb(3, 203, 0);
     color: black;
-    border-radius: 35%;
+    border-radius: 1rem;
+    border: none;
+}
+.msg{
+    color: #00ff37;
+    font-size: 5vmin;
+}
+.msg-container{
+    height: 10vmin;
+
+}
+.hide{
+    display: none;
 }
